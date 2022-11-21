@@ -1,0 +1,3 @@
+FROM gcr.io/cadvisor/cadvisor:v0.36.0
+
+MAINTAINER sijinhui sijinhui@ainnovation.com
